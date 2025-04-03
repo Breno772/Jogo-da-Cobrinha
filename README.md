@@ -1,1 +1,3 @@
 # Jogo-da-Cobrinha
+
+O classico joguinho da serpente feito em HTML e CSS...
